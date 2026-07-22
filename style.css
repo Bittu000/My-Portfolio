@@ -558,6 +558,7 @@ footer a{
         margin-left: 0%;
     }
     .about{
+        margin-bottom: 10%;
         flex-direction: column;
     }
     .skills{
@@ -568,6 +569,7 @@ footer a{
     .projects{
         flex-direction: column;
         min-height: 56vh;
+        margin-bottom: 12%;
     }
     .contactme{
         min-height: 85vh;
