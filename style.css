@@ -547,6 +547,10 @@ footer a{
     color: #16A34A;   /* Green */
 }
 
+.hamburger {
+    display: none;
+}
+
 /** responsive **/
 
 @media (max-width : 430px){
